@@ -33,3 +33,12 @@ git checkout <version number>
 
 #revert back
 git checkout master
+
+#to creat a branch, commit changes at branching point then name new branch
+git commit 
+git checkout -b <branchname>
+
+#See all your branches
+git branch -a
+
+
