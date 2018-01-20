@@ -1,4 +1,5 @@
 Data Carpentry Notes on Bash Git
+Cheryl was here
 
 https://swcarpentry.github.io/git-novice/
 
