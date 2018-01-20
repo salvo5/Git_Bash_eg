@@ -9,7 +9,10 @@ git init
 #Use git status frequently to make sure things are on track
 git status
 
-#Tell Git to track files
+#Tell Git to track files, need to items EACH time you want to commit
 git add <filename>
 
- 
+#Commit changes with message
+git commit -m "comment on what I changed"
+
+
