@@ -1,1 +1,15 @@
 Data Carpentry Notes on Bash Git
+
+#Make a git repository that will track everything above the folder
+cd target folder
+git init
+
+#Never create a nested git repository!!!
+
+#Use git status frequently to make sure things are on track
+git status
+
+#Tell Git to track files
+git add <filename>
+
+ 
