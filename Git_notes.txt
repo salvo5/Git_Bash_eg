@@ -1,5 +1,7 @@
 Data Carpentry Notes on Bash Git
 
+https://swcarpentry.github.io/git-novice/
+
 #Make a git repository that will track everything above the folder
 cd target folder
 git init
@@ -18,4 +20,15 @@ git commit -m "comment on what I changed"
 #How to check what was modified
 git diff
 
+# check lig of commits
+git log
 
+#link local line command Git to git hub
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
+#checkout previous versions
+git checkout <version number>
+
+#revert back
+git checkout master
