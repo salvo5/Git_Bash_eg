@@ -16,3 +16,4 @@ git add <filename>
 # making some notes, then will commit these as a branch and name deadbranch
 checkout -b deadbranch
  
+##some changes on the dead branch
