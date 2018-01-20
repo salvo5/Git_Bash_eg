@@ -12,4 +12,7 @@ git status
 #Tell Git to track files
 git add <filename>
 
+# reverted to version 39d03e4744e58...
+# making some notes, then will commit these as a branch and name deadbranch
+checkout -b deadbranch
  
