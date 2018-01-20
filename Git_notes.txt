@@ -15,4 +15,7 @@ git add <filename>
 #Commit changes with message
 git commit -m "comment on what I changed"
 
+#How to check what was modified
+git diff
+
 
