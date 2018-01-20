@@ -2,8 +2,8 @@ Data Carpentry Notes on Bash Git
 
 https://swcarpentry.github.io/git-novice/
 
-#Make a git repository that will track everything above the folder
-cd target folder
+#Make a git repository that will track everything above the repository dir
+cd <target dir>
 git init
 
 #Never create a nested git repository!!!
